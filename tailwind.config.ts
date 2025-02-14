@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        dayif: "#ff45",
+        bg: "var(--bg)",
+        bgSoft: " #2d2b42",
+        text: "var(--text)",
+        btn: "#3673fd",
       },
     },
   },
